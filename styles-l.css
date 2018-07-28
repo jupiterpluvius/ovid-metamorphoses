@@ -1,5 +1,5 @@
 * {
-	font-family: "ZephText","Consolas NF";
+	font-family: "Source Sans Pro","";
 	padding: 0;
 	margin: 0;
 	font-size: calc(16px + (26 - 16) * ((100vw - 600px) / (1600 - 600)));
