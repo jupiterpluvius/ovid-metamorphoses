@@ -15,11 +15,8 @@ p {
 	vertical-align: middle;
 }
 
-span {}
-
 p::before {
 	position: absolute;
-	display: inline;
 	left: -5.25rem;
 	bottom: -1px;
 	color: rgba(0,0,0,0.2);
