@@ -2,7 +2,7 @@
 	font-family: "EB Garamond","";
 	padding: 0;
 	margin: 0;
-	font-size: calc(16px + (26 - 16) * ((100vw - 600px) / (1600 - 600)));
+	font-size: calc(20px + (30 - 20) * ((100vw - 750px) / (1600 - 750)));
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 p {
-	line-height: calc(24px + (35 - 24) * ((100vw - 600px) / (1600 - 600)));
+	line-height: calc(30px + (40 - 30) * ((100vw - 750px) / (1600 - 750)));
 	position: relative;
 	vertical-align: middle;
 }
@@ -77,14 +77,15 @@ h2 {
 	color: #d3615b;
 	position: relative;
 	margin: 25px 0 15px;
+	width: 20rem;
 	padding-bottom: 5px;
 	border-bottom: 2px solid #d3615b;
 }
 
 div {
-	padding: 50px 16vw;
+	padding: 60px 60px;
 	margin: 0 auto 250px auto;
-	width: 640px;
+	width: 25rem;
 }
 
 div+div {
