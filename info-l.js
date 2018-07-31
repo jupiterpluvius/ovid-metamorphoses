@@ -138,7 +138,7 @@ const tagCatalog = [
 				let wordDef = (clickedWord.dataset.def) ? clickedWord.dataset.def : " ";
 				let infoBox = 
 					`
-						<li><span class="entry">${wordForm}</span> &nbsp; <span style="font-feature-settings: 'c2sc', 'smcp';">${wordPos}</span></li>
+						<li><span class="entry">${wordForm}</span> &nbsp; <span style="font-feature-settings: 'c2sc', 'smcp', 'onum', 'pnum';">${wordPos}</span></li>
 						<li>${wordDict}</li>
 						<li><em>${wordDef}</em></li>
 					`;
