@@ -148,14 +148,14 @@ section+section {
 	margin-top: 75px;
 }
 
-/* h2::after {
-	position: absolute;
-	content: "——————";
-	padding: 0px 10px;
-} */
-
 h1+section {
 	margin-top: 20px;
+}
+
+a[name] {
+	padding-top: 4000px;
+	margin-top: -4000px;
+	display: block;
 }
 
 /*section p:nth-child(odd){
