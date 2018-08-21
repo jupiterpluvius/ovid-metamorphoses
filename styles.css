@@ -152,12 +152,6 @@ h1+section {
 	margin-top: 20px;
 }
 
-a[name] {
-	padding-top: 4000px;
-	margin-top: -4000px;
-	display: block;
-}
-
 /*section p:nth-child(odd){
 	text-indent:1.5rem;
 }*/
