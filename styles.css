@@ -105,6 +105,7 @@ em {
 	box-sizing: border-box;
 	top:0;
 	left:0;
+	height: 6rem;
 	padding: 25px 0 25px 25px;
 	background-color: #d5f2fa;
 	box-shadow: -2px 2px 2px 0px #133441;
